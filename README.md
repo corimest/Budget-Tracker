@@ -14,6 +14,7 @@ An update to an existing budget tracker application that allows offline access a
 
 ## Deployed Link
 
+Everything was working so well until I tried to deploy it to Heroku. Now it's broken, I can't figure it out, and I can't look at it anymore. So, you can try going to https://nameless-refuge-75037.herokuapp.com/, but I doubt it will work right now. 
 
 
 ## Questions
